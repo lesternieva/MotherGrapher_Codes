@@ -11,3 +11,6 @@ Images - This folder contains all the generated images from SageMath. It also co
 conflictGraph.ipynb - This script contains the greedy algorithm for finding the maximal independent set in a conflict graph.
 
 Ford-Fulkerson.ipynb - This script contains the algorithm used for finding the maximum flow and bottleneck edges of a flow network.
+
+data.csv - contains the raw data collected manually with the use of video recording on the field
+
